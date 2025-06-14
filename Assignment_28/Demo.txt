@@ -1,0 +1,1 @@
+Hi, The file is saved in assignment28, and assignment28 is based on file handling. Hello world Hello world Hello world Hello world
