@@ -9,7 +9,7 @@
 // File Name   :  program1.c
 // Description :  Problems on array
 // Autor       :  Ankita Anil Patil
-// Date        :  28/05/2025
+// Date        :  225/07/2025
 ///////////////////////////////////////////////////////////////////////////////
 
 
