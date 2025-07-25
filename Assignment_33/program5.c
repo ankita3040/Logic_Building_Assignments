@@ -2,7 +2,7 @@
 
 ///////////////////////////////////////////////////////////////////////////////
 // File Name   :  program5.c
-// Description :  accept one number from user and range of positions from user
+// Description :  accept one number from user and range of positions from user. Toggle all bits from that range.
 // Autor       :  Ankita Anil Patil
 // Date        :  25/07/2025
 ///////////////////////////////////////////////////////////////////////////////
