@@ -1,5 +1,12 @@
 // .Write a program which accept one number from user and count number of ON (1) bits in it without using % and / operator.
 
+///////////////////////////////////////////////////////////////////////////////
+// File Name   :  program1.c
+// Description :  accept one number from user and count number of ON (1) bits in it without using % and / operator.
+// Autor       :  Ankita Anil Patil
+// Date        :  25/07/2025
+///////////////////////////////////////////////////////////////////////////////
+
 /*
     Input : 11
     Output: 3
